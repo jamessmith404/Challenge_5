@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Toyota Supra",
+        "rentPerDay": 300000,
+        "size": "Medium",
+        "profilePictureUrl": ""
+    },
+    {
+        "id": 2,
+        "name": "Toyota Raize",
+        "rentPerDay": 200000,
+        "size": "Small",
+        "profilePictureUrl": ""
+    }
+]
